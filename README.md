@@ -1,5 +1,5 @@
 # OS scheduler
-Homework for OS course at NYU. Basic virtual memory manager to replicate OS behavior in C++
+Homework for OS course at NYU. Basic IO scheduler to replicate OS behavior in C++
 
 **Grade : 100/100 A**
 
